@@ -1,0 +1,23 @@
+{
+  "name": "js-log-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webbmaffian/js-log-client.git"
+  },
+  "author": "Webbmaffian AB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webbmaffian/js-log-client/issues"
+  },
+  "homepage": "https://github.com/webbmaffian/js-log-client#readme",
+  "dependencies": {
+    "stacktrace-parser": "^0.1.10"
+  }
+}
