@@ -1,5 +1,5 @@
 {
-  "name": "js-log-client",
+  "name": "log-center-client",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webbmaffian/js-log-client.git"
+    "url": "git+https://github.com/webbmaffian/js-log-center-client.git"
   },
   "author": "Webbmaffian AB",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webbmaffian/js-log-client/issues"
+    "url": "https://github.com/webbmaffian/js-log-center-client/issues"
   },
-  "homepage": "https://github.com/webbmaffian/js-log-client#readme",
+  "homepage": "https://github.com/webbmaffian/js-log-center-client#readme",
   "dependencies": {
     "stacktrace-parser": "^0.1.10"
   }
