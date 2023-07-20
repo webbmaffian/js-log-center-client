@@ -1,5 +1,5 @@
 {
-  "name": "log-center-client",
+  "name": "@webbmaffian/log-center-client",
   "version": "0.1.1",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/webbmaffian/js-log-center-client.git"
   },
   "author": "Webbmaffian AB",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/webbmaffian/js-log-center-client/issues"
   },
